@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="100%" height="100%">
+  <defs>
+    <linearGradient id="certGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141c24" />
+      <stop offset="100%" stop-color="#091017" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#certGrad)" />
+  <rect x="25" y="25" width="750" height="510" rx="10" fill="none" stroke="#263a4d" stroke-width="2" />
+  <rect x="40" y="40" width="720" height="480" rx="6" fill="none" stroke="#6366f1" stroke-dasharray="8 6" stroke-width="1.5" />
+  <!-- Certificate Ribbon Icon -->
+  <circle cx="400" cy="180" r="50" fill="#17283c" stroke="#38bdf8" stroke-width="2" />
+  <polygon points="400,150 412,175 438,175 416,190 425,215 400,200 375,215 384,190 362,175 388,175" fill="#38bdf8" />
+  <text x="400" y="280" fill="#f8fafc" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle">CERTIFICATE OF ACHIEVEMENT</text>
+  <text x="400" y="320" fill="#94a3b8" font-family="sans-serif" font-size="16" text-anchor="middle">ใบประกาศนียบัตร / วุฒิบัตรรับรอง</text>
+  <rect x="220" y="370" width="360" height="42" rx="6" fill="#132334" stroke="#38bdf8" stroke-dasharray="4 4" stroke-width="1.5" />
+  <text x="400" y="396" fill="#7dd3fc" font-family="sans-serif" font-size="14" text-anchor="middle">[ วางรูปใบประกาศนียบัตรจริง: images/activity-cert.jpg ]</text>
+</svg>
+

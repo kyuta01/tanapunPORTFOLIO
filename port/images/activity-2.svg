@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="actGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1828" />
+      <stop offset="100%" stop-color="#0e0c15" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#actGrad2)" />
+  <rect x="20" y="20" width="760" height="460" rx="12" fill="none" stroke="#36294a" stroke-width="2" />
+  <circle cx="400" cy="200" r="70" fill="#281f38" stroke="#a855f7" stroke-width="2" stroke-dasharray="6 4" />
+  <!-- Trophy / Competition Icon -->
+  <path d="M375 170 L425 170 L420 215 C420 230, 380 230, 380 215 Z" fill="#c084fc" />
+  <rect x="395" y="225" width="10" height="15" fill="#c084fc" />
+  <rect x="385" y="240" width="30" height="6" rx="2" fill="#c084fc" />
+  <text x="400" y="310" fill="#f8fafc" font-family="sans-serif" font-size="22" font-weight="bold" text-anchor="middle">COMPETITION &amp; EVENT</text>
+  <text x="400" y="342" fill="#94a3b8" font-family="sans-serif" font-size="15" text-anchor="middle">ภาพการประกวด แข่งขัน และกิจกรรมสร้างสรรค์</text>
+  <rect x="220" y="380" width="360" height="38" rx="6" fill="#241b33" stroke="#a855f7" stroke-dasharray="4 4" stroke-width="1.5" />
+  <text x="400" y="404" fill="#d8b4fe" font-family="sans-serif" font-size="13" text-anchor="middle">[ วางรูปภาพกิจกรรมจริง: images/activity-2.jpg ]</text>
+</svg>
+

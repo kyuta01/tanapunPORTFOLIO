@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="artGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#090d15" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#artGrad3)" />
+  <rect x="20" y="20" width="760" height="560" rx="12" fill="none" stroke="#253248" stroke-width="2" />
+  <circle cx="400" cy="240" r="80" fill="#182338" stroke="#38bdf8" stroke-width="2" stroke-dasharray="6 4" />
+  <!-- Isometric 3D Cube / Asset Icon -->
+  <polygon points="400,205 440,225 400,245 360,225" fill="#38bdf8" opacity="0.9" />
+  <polygon points="360,225 400,245 400,285 360,265" fill="#0284c7" opacity="0.8" />
+  <polygon points="400,245 440,225 440,265 400,285" fill="#0369a1" opacity="0.7" />
+  <text x="400" y="360" fill="#f8fafc" font-family="sans-serif" font-size="22" font-weight="bold" text-anchor="middle">3D GAME ASSET &amp; MODELING</text>
+  <text x="400" y="395" fill="#94a3b8" font-family="sans-serif" font-size="15" text-anchor="middle">Hard-surface &amp; Prop Design</text>
+  <rect x="240" y="440" width="320" height="38" rx="6" fill="#141f30" stroke="#38bdf8" stroke-dasharray="4 4" stroke-width="1.5" />
+  <text x="400" y="464" fill="#7dd3fc" font-family="sans-serif" font-size="13" text-anchor="middle">[ วางรูปภาพผลงานจริงของคุณ ]</text>
+</svg>
+
